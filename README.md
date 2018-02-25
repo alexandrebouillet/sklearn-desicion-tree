@@ -1,2 +1,2 @@
-# sklearn-desicion-tree
-This is my first Decision Tree with Scikit-Learn
+# Decision Tree
+This is Decision Tree with Scikit-Learn.
